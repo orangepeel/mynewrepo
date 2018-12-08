@@ -1,0 +1,240 @@
+
+/* 
+====================================
+Sets up styles for sidebar / navigation containers
+====================================
+*/
+
+.sidebar-logo {
+  /* hint: use the width property */
+}
+
+nav a {
+  /* hint: use the font-family property */
+  /* hint: use the padding property */
+}
+
+a {
+  /* hint: use the color property */
+}
+
+/* this pseudo class will change the link tag <a> color when you hover on it */
+a:hover {
+  /* hint: use the color property */
+}
+
+.center p {
+  /* hint: use the text align property */
+}
+
+/* 
+===========================
+Sets up styles for logos 
+============================
+*/
+
+.section-logo {
+  /* hint: use the width property */
+  /* hint: use the height property */
+}
+
+/* 
+===========================
+Sets up styles for typography 
+============================
+*/
+
+/* Sets up font-face for body copy */ 
+body {
+  /* hint: use the font-family property */
+  /* hint: use the color property */
+}
+
+/* Sets up font-face for headers */ 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  /* hint: use the font-family property */
+  /* hint: use the color property */
+  /* hint: use the line-height property */
+}
+
+/* Sets up font-weights for headers */ 
+h1 {
+  /* hint: use the font-weight property */
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  /* hint: use the font-weight property */
+
+}
+
+/* adds 40px of margin to the top */
+.type-styles {
+  /* hint: use the margin-top property */
+}
+
+/* adds 40px of margin to the top */
+.type-faces {
+  /* hint: use the margin-top property */
+}
+
+.type-faces-01 {
+  /* hint: use the font-family property */
+}
+
+.type-faces-02 {    
+  /* hint: use the font-family property */
+}
+
+/* 
+==========================
+Sets up styles for colors 
+===========================
+*/
+
+/* Makes a circle shape to serve a color box */ 
+.color-shape {
+  /* display: block;
+  text-align: center;
+  width: 6em;
+  height: 6em;
+  border-radius: 50%;
+  margin: 0.5em;
+  border: 1px solid white;
+  box-shadow: 0px 2px 6px rgba(0,0,0,0.4); */
+}
+
+/* Makes colors */ 
+.color-red {
+  /* background: red; */
+}
+
+.color-orange {
+  /* background: orange; */
+}
+
+.color-yellow {
+  /* background: yellow; */
+}
+
+.color-green {
+  /* background: green; */
+}
+
+.color-blue {
+  /* background: blue; */
+}
+
+.color-purple {
+  /* background: indigo; */
+}
+
+.color-black {
+  /* background: black; */
+}
+
+.color-gray {
+  /* background: gray; */
+}
+
+/* 
+===========================
+Sets up styles for button 
+============================
+*/
+
+.button button {
+  /* hint: use the height property */
+  /* hint: use the width property */ 
+  /* hint: use the border-radius property */  
+  /* hint: use the padding property */  
+  /* hint: use the margin property */  
+  /* hint: use the font-family property */  
+  /* hint: use the font-weight property */
+}
+
+.button-normal {
+  /* hint: use the background property */
+  /* hint: use the color property */
+}
+
+.button-hover {
+  /* hint: use the background property */
+  /* hint: use the color property */
+
+}
+
+.button-pressed,
+.button-loading {
+  /* hint: use the background property */
+  /* hint: use the color property */
+}
+
+.button-disabled {
+   /* hint: use the background property */
+  /* hint: use the color property */
+}
+
+/* 
+==========================
+Sets up styles for icons 
+===========================
+*/
+
+/* TO ADD FONT AWESOME ICONS GO TO THIS LINK AND COPY THE CSS LINK
+https://fontawesome.com/how-to-use/on-the-web/setup/getting-started?using=web-fonts-with-css
+*/
+
+/* USPS iconography */
+.usps-icons i {
+  /* hint: use the margin-top property */
+  /* hint: use the font-size property */  
+  /* hint: use the color property */
+}
+
+.svg-icons img {
+  /* hint: use the margin-top property */
+  /* hint: use the width property */  
+  /* hint: use the height property */
+}
+
+/* footer iconography */
+.social-icons i {
+  /* hint: use the font-size property */
+  /* hint: use the color property */
+}
+
+.social-icons i:hover {
+  /* hint: use the color property */
+
+}
+
+/* 
+===========================
+Sets up styles for images 
+============================
+*/
+
+#Imagery img {
+  /* hint: use the padding property */
+
+}
+
+/* 
+====================================
+Sets up styles for articles
+====================================
+*/
+article {
+ 
+}
+
+/* Copyright Trilogy Education Services © 2018. All Rights Reserved. */

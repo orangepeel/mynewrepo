@@ -1,0 +1,111 @@
+/* 
+====================================
+Sets up styles for .sidebar-container 
+====================================
+*/
+
+.sidebar-container {
+
+}
+
+nav {
+}
+  
+nav a,
+nav h2 {
+
+}
+
+/* 
+====================================
+Sets up styles for .content-container 
+====================================
+*/
+
+/* Positions section container in relation to .sidebar-container */
+.section-container {
+  
+}
+
+/* Sets max width for content and align content in middle of section-container */
+.content-container {
+   
+}
+
+/* Sets row behavior using flexbox: https://css-tricks.com/snippets/css/a-guide-to-flexbox/ */
+.row-container-no-wrap {
+  
+}
+
+.row-container {
+
+}
+
+.row-container-around {
+
+}
+
+/* 
+====================================
+BONUS: Sets up styles for mobile breakpoint 
+====================================
+*/
+
+/* Hides mobile navigation on desktop */
+.mobile-nav {
+   
+}
+
+/* Sets media query for screens below 450px wide */
+@media only screen and (max-width: 450px) {
+
+    /* Position nav at the top */
+    nav {
+       
+    }
+
+    /* Shows Mobile Navigation Styles  */
+    .mobile-nav {
+       
+    }
+    /* Sets max width for logos in mobile nav */
+    .mobile-nav img {
+
+    }
+
+    /* Hides Sidebar on mobile */
+    .sidebar-container {
+       
+    }
+  
+    /* Defines mobile container content */
+    .section-container {
+      
+    }
+
+    /* Sets Type Styles */
+    h1 {
+        
+    }
+
+
+    .row-container-no-wrap {
+      
+    }
+
+    #Logo .section-logo {
+       
+    }
+
+
+}
+
+/* 
+====================================
+BONUS: Sets up css code snippet styles 
+====================================
+*/
+
+pre {
+
+}
